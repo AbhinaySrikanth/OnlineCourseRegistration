@@ -1,4 +1,5 @@
 #Online Course Registration Platform (Prototype)
+
 This repository contains a simple prototype for an online course registration platform. The project is built using HTML, CSS, and Bootstrap 5, with fonts sourced from Google Fonts and images from Pixabay.
 
 Overview
