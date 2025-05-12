@@ -1,7 +1,3 @@
-Here is a clear, concise, and original README file for your online course registration platform prototype. This is tailored for a basic, front-end-only project using HTML, CSS, and Bootstrap 5, with Google Fonts and images from Pixabay. It’s written to help users and reviewers understand your project, how to use it, and what it demonstrates.
-
----
-
 ## Online Course Registration Platform (Prototype)
 
 This repository contains a simple prototype for an online course registration platform. The project is built using HTML, CSS, and Bootstrap 5, with fonts sourced from Google Fonts and images from Pixabay.
